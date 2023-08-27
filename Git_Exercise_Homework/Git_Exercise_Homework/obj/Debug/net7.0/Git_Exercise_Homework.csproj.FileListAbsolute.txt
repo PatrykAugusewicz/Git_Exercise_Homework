@@ -1,0 +1,14 @@
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\bin\Debug\net7.0\Git_Exercise_Homework.exe
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\bin\Debug\net7.0\Git_Exercise_Homework.deps.json
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\bin\Debug\net7.0\Git_Exercise_Homework.runtimeconfig.json
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\bin\Debug\net7.0\Git_Exercise_Homework.dll
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\bin\Debug\net7.0\Git_Exercise_Homework.pdb
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.AssemblyInfoInputs.cache
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.AssemblyInfo.cs
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.csproj.CoreCompileInputs.cache
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.dll
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\refint\Git_Exercise_Homework.dll
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.pdb
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\Git_Exercise_Homework.genruntimeconfig.cache
+D:\Git_Repo\Git_Exerise_Homework\Git_Exercise_Homework\Git_Exercise_Homework\obj\Debug\net7.0\ref\Git_Exercise_Homework.dll
